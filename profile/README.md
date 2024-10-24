@@ -1,15 +1,15 @@
 # 📘 Curso: NestJS + Microservicios: Aplicaciones escalables y modulares por Fernando Herrera
 
 ## 🎯 Objetivos del curso
-- 🚀 Conocer y desarrollar microservicios
-- 🛠 Crear microservicios con NestJS
-- 🔗 Comunicación por: TCP, NATS, HTTP
-- 🌐 Trabajar con Gateways para comunicación en tiempo real
+- 🚀 Conocer y desarrollar microservicios ✅
+- 🛠 Crear microservicios con NestJS ✅
+- 🔗 Comunicación por: TCP, NATS, HTTP ✅
+- 🌐 Trabajar con Gateways para comunicación en tiempo real ✅
 - 🔒 Autenticación robusta y segura
 - 🗄 Bases de datos: Relacionales y No Relacionales
 - ☁️ Desplegar en Google Cloud
 - 🐳 Docker y Kubernetes para contenerización y orquestación
-- 📦 Git Submodules para gestionar repositorios
+- 📦 Git Submodules para gestionar repositorios ✅
 - 🎯 ¡Y mucho más!
 
 ### Primera parte: cumunicación mediante TCP

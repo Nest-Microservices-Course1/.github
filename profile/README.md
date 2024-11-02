@@ -23,6 +23,5 @@ El objetivo de la sección es comunicar los microservicios a través de NATS en 
 <p align="center"><img src="https://github.com/user-attachments/assets/86ca0e31-84c2-4048-bf32-c5c36e007fa2" width="600" alt="Objetivo 2"> </p>
 
 ## 📈 Progreso del Curso
-### Módulo 8 de 17
-
-[████████▌---------] 47%
+### Módulo 10 de 17
+[█████████▌--------] 53%

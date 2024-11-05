@@ -12,6 +12,10 @@
 - 📦 Git Submodules para gestionar repositorios ✅
 - 🎯 ¡Y mucho más!
 
+> [!TIP]
+> 🚀 Repositorio Central del Proyecto  
+> Para ejecutar todos los microservicios y el gateway de este curso en un solo lugar, visita el [Repositorio Launcher](https://github.com/AbrilSabatini/nest-microservices-launcher.git).
+
 ### Primera parte: cumunicación mediante TCP
 <p align="center"><img src="https://github.com/user-attachments/assets/5967241f-d6b5-4ed7-9f6c-9d333e9584dc" width="600" alt="Objetivo 2"> </p>
 
@@ -23,5 +27,5 @@ El objetivo de la sección es comunicar los microservicios a través de NATS en 
 <p align="center"><img src="https://github.com/user-attachments/assets/86ca0e31-84c2-4048-bf32-c5c36e007fa2" width="600" alt="Objetivo 2"> </p>
 
 ## 📈 Progreso del Curso
-### Módulo 10 de 17
-[█████████▌--------] 53%
+### Módulo 11 de 17
+[██████████--------] 59%

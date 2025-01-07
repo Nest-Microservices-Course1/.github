@@ -31,5 +31,5 @@ El objetivo es levantar todo el proyecto con un único comando y crear sesiones 
 <p align="center"><img src="https://github.com/user-attachments/assets/4814b27a-1c68-4d57-9ab3-c49781186f22" width="600" alt="Objetivo 3"> </p>  
 
 ## 📈 Progreso del Curso
-### Módulo 15 de 17
-[█████████████-----] 88%
+### Módulo 17 de 17
+[█████████████████] 100%
